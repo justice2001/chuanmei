@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+
+<svg>
+<metadata>
+Created by webfont
+</metadata>
+<defs>
+
+<font id="AlibabaPuHuiTiL" horiz-adv-x="1234" vert-adv-y="1234" >
+  <font-face
+    
+    font-family="AlibabaPuHuiTiL"
+    
+    font-weight="400"
+    
+    font-stretch="normal"
+    
+    units-per-em="1000"
+    
+    ascent="1097"
+    
+    descent="-279"
+    
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="uni64" unicode="&#x64;" d="M468 760L513 760L513 0L475 0L470 121Q435-10 273-10Q157-10 110 58Q63 126 63 270Q63 406 111 478Q159 550 273 550Q426 550 468 426L468 760M280 31Q384 31 427 93.50Q470 156 470 270Q470 343 454 393.50Q438 444 394.50 476.50Q351 509 280 509Q182 509 146 450Q110 391 110 270Q110 146 146.50 88.50Q183 31 280 31Z"  horiz-adv-x="606" vert-adv-y="1000"  />
+
+    
+
+  </font>
+</defs></svg>
